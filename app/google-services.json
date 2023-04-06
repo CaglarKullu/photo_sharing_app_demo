@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630704748053",
+    "project_id": "photosharing-22113",
+    "storage_bucket": "photosharing-22113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630704748053:android:219bb8f5c56db902a4401c",
+        "android_client_info": {
+          "package_name": "com.ctksoftware.photo_sharing_app_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630704748053-2bmsv4mnf0d42ed0a6tkdt4kuedvuipm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTnzbtIUo63vcZsTDOohdIW0wjp0P1SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630704748053-2bmsv4mnf0d42ed0a6tkdt4kuedvuipm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
